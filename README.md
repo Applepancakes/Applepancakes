@@ -6,6 +6,8 @@
 
   - [(Microsoft-Sentinal-SIEM Lab)](https://github.com/Applepancakes/Microsoft-Sentinal-SIEM/blob/main/README.md)
 
+  - [(PowerShell-Integrity-FIM)](https://github.com/Applepancakes/PowerShell-Integrity-FIM)
+
 -  I’m currently working on improving and flushing this out. Paciencia y fe
 
 
