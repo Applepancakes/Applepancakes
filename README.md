@@ -1,6 +1,6 @@
 <h1>Hi, I'm Ezequiel! <br/><a 
 
-<h2>👨‍💻 Cybersecurity Projects:</h2>
+<h2>👨‍💻 Cybersecurity Projects I have worked on below:</h2>
 
   - [(JWipe Harddrive Wipe Lab)](https://github.com/Applepancakes/JWipe-Disk-Sanitization)
 
