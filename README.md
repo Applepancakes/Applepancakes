@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-  - [(JWipe Harddrive wipe Lab)](https://github.com/Applepancakes/JWipe-Disk-Sanitization)
+  - [(JWipe Harddrive Wipe Lab)](https://github.com/Applepancakes/JWipe-Disk-Sanitization)
 
 -  I’m currently working on improving and flushing this out. Paciencia y fe
 
