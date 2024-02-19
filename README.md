@@ -11,7 +11,7 @@
 
 <h3>📊 Database Analyst Projects I have worked on below:</h3>
 
-https://github.com/Applepancakes/SQL-Server-Queries-Covid-Sample-Data-
+[(Covid Sample Data SQL Queries)](https://github.com/Applepancakes/SQL-Server-Queries-Covid-Sample-Data-)
 
 
 
