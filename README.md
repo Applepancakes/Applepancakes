@@ -16,7 +16,7 @@
 
   - [(Covid Sample Data SQL Queries)](https://github.com/Applepancakes/SQL-Server-Queries-Covid-Sample-Data-)
 
-
+  - [(Data Visualization Showcase)](https://github.com/Applepancakes/DataVisualizations)
 
 
  Paciencia y fe
