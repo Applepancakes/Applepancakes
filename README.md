@@ -8,6 +8,9 @@
 
   - [(PowerShell-Integrity-FIM)](https://github.com/Applepancakes/PowerShell-Integrity-FIM)
 
+  - [(PowerShell-Hardware reimaging showcase)](https://github.com/Applepancakes/PS-Showcase/tree/main)
+
+
 
 <h3>📊 Database Analyst Projects I have worked on below:</h3>
 
@@ -16,7 +19,7 @@
 
 
 
- I’m currently working on improving and flushing this out. Paciencia y fe
+ Paciencia y fe
 
 
 <!--
