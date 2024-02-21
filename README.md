@@ -12,6 +12,7 @@
 
   - [(PowerShell-Hardware reimaging showcase)](https://github.com/Applepancakes/PS-Showcase/tree/main)
 
+  - [(Security Vulnerability Management with Nessus)](https://github.com/Applepancakes/Nessus-Showcase/tree/main)
 
 
 <h3>📊 Database Analyst Projects I have worked on below:</h3>
