@@ -10,7 +10,7 @@
 
   - [(PowerShell-Integrity-FIM)](https://github.com/Applepancakes/PowerShell-Integrity-FIM)
 
-  - [(PowerShell-Hardware reimaging showcase)](https://github.com/Applepancakes/PS-Showcase/tree/main)
+  - [(PowerShell showcase)](https://github.com/Applepancakes/PS-Showcase/tree/main)
 
   - [(Security Vulnerability Management with Nessus)](https://github.com/Applepancakes/Nessus-Showcase/tree/main)
 
