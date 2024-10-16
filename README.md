@@ -16,13 +16,13 @@
 
   - [(Network Enterprise Capstone showcase)](https://github.com/Applepancakes/Cadmus/tree/main)
 
+  - [(Zabbix Monitoring using Docker)](https://github.com/Applepancakes/Zabbix-Docker-Showcase) <!-- Add link to Zabbix project -->
+
 <h2>📊 Database Analyst Projects I have worked on below:</h2>
 
   - [(Covid Sample Data SQL Queries)](https://github.com/Applepancakes/SQL-Server-Queries-Covid-Sample-Data-)
 
   - [(Data Visualization Showcase)](https://github.com/Applepancakes/DataVisualizations)
-
-  - [(Zabbix Monitoring using Docker)](https://github.com/Applepancakes/Zabbix-Docker-Showcase) <!-- Add link to Zabbix project -->
 
  Paciencia y fe
 
