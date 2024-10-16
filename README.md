@@ -24,7 +24,7 @@
 
   - [(Data Visualization Showcase)](https://github.com/Applepancakes/DataVisualizations)
 
- Paciencia y fe
+_Paciencia y fe_
 
 
 <!--
