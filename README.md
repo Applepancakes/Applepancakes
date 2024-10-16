@@ -22,6 +22,7 @@
 
   - [(Data Visualization Showcase)](https://github.com/Applepancakes/DataVisualizations)
 
+  - [(Zabbix Monitoring using Docker)](https://github.com/Applepancakes/Zabbix-Docker-Showcase) <!-- Add link to Zabbix project -->
 
  Paciencia y fe
 
