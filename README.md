@@ -16,7 +16,7 @@
 
   - [(Network Enterprise Capstone showcase)](https://github.com/Applepancakes/Cadmus/tree/main)
 
-  - [(Zabbix Monitoring using Docker)](https://github.com/Applepancakes/Zabbix-Docker-Showcase) <!-- Add link to Zabbix project -->
+  - [(Zabbix Network Monitoring using Docker)](https://github.com/Applepancakes/Zabbix-Docker-Showcase) <!-- Add link to Zabbix project -->
 
 <h2>📊 Database Analyst Projects I have worked on below:</h2>
 
